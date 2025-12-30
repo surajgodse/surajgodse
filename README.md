@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Suraj Godse</h1>
-- 🔭 I’m currently working on software development projects, immersing myself in both frontend and backend intricacies to sharpen my skills.
-
-- 🌱 I’m currently learning **React, Node.js**
 
 - 👯 I’m looking to collaborate on **Exciting software endeavors, tackling both frontend and backend challenges for shared progress.**
 
