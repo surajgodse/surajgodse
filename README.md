@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Suraj Godse</h1>
+- Interested in collaborating on full-stack projects involving frontend, backend, and cloud systems
 
+- Enjoy solving complex problems and shipping clean, production-ready code
+
+- Open to contributing to open-source and innovative product-driven teams
 - 👯 I’m looking to collaborate on **Exciting software endeavors, tackling both frontend and backend challenges for shared progress.**
 
 - [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=surajgodse&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/surajgodse/github-readme-stats#gh-dark-mode-only)
